@@ -8,8 +8,8 @@
     margin: 0 auto;
   }
   .info-important{
+    @extend .info;
     background-color: magenta;
-    @extend .info
   }
 </style>
 
